@@ -1,9 +1,14 @@
-Virtual Bank - ATM Banking Simulator (offline, virtual money)
-Run:   python gui.py        (Python 3.8+, no extra installs; uses built-in tkinter + sqlite3)
-Sample accounts (acc no / PIN): 1001/1234, 1002/4321, 1003/1111
-New accounts can be created from the login screen.
-To reset all data: close the app and delete atm.db
+## Group-1 : Assignment 10 (ATM Banking Simulator)
 
+**Course Code:** CS371  
+**Year:** 3rd Year, B.Tech  
+**Institution:** National Institute of Technology, Meghalaya  
+
+### Team Members
+* **B24CS007** - Aishi Pandey
+* **B24CS023** - Priya Saha
+* **B24CS044** - Rahul Das
+* **B24CS046** - Swarnim Suman
 
 # Virtual Bank: ATM Banking Simulator
 
@@ -73,3 +78,11 @@ The database has two tables:
 ## Limitations
 
 This is a simulation of the transaction logic only. There is no card reader, cash dispenser or network, and everything is stored in one local file. Features like creating an account and transferring money are closer to online banking than to a real ATM, but we included them to make the project more complete.
+
+## Summary
+
+Virtual Bank - ATM Banking Simulator (offline, virtual money)
+Run:   python gui.py        (Python 3.8+, no extra installs; uses built-in tkinter + sqlite3)
+Sample accounts (acc no / PIN): 1001/1234, 1002/4321, 1003/1111
+New accounts can be created from the login screen.
+To reset all data: close the app and delete atm.db
